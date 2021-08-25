@@ -308,6 +308,7 @@ footer .sns{
     overflow: hidden;
     width: 83px; height: 33px;
     background: #fff url(../images/bgSns.png) no-repeat center/cover;
+    margin-right: 35px;
 }
 
 footer .sns li:first-child{
